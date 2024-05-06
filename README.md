@@ -11,7 +11,7 @@
 
 To get started with the chatbot, follow these steps:
 
-1. **Clone this repository** to your local machine using `git clone https://github.com/majidhanif230/chatbot-project.git`.
+1. **Clone this repository** to your local machine
 2. **Navigate to the project directory.**
 3. **Install the required dependencies** using `pip install -r requirements.txt`.
 4. **Run the `chatbot.py` script** to start the chatbot.
